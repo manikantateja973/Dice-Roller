@@ -14,4 +14,4 @@ A simple Android application built with Jetpack Compose that allows users to rol
 
 ## Screenshots
 
-*(You can add screenshots of your app here to showcase its appearance.)*
+![Dice Roller App Screenshot](screenshots/diceroller-screenshot.png)
